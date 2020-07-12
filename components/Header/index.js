@@ -8,7 +8,7 @@ const Header =() => {
         <div className= {styles.wrapper}>
             <div className= 'container mx-auto'>
                 <Link href='/'>
-                <a><img className= 'mx-auto' src='/logo-1.jpg' /></a>
+                <a><img className= 'mx-auto' src='/rafa-doces.jpg' /></a>
                 </Link>
             </div>
         </div>
