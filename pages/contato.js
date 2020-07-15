@@ -6,11 +6,14 @@ const Contato = () => {
     return (
         <div>
             <PageTitle title='Contato' />
-            <h1>Página Contato</h1>
-            <div>
-                <Link href='/'>
-                    <a>Home</a>
-                </Link>
+            <p className='text-center p-4'>Acesse nosso Instagram e veja as nossas delicias!</p>
+            <div className='text-center'>
+                <a className='underline' href="https://instagram.com/rafabazi.doces/" passHref={true}>
+                    @rafabazi.doces
+                </a>
+                <a className='underline' href="https://instagram.com/rafabazi.doces/" passHref={true}>
+                    Whatsapp:+55 11 94235-8105
+                </a>
             </div>
         </div>
     )
