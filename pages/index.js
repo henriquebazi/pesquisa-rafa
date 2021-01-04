@@ -11,7 +11,7 @@ const Index =() => {
         <div>
             <PageTitle title= 'Seja bem-vindo' />
             <p className= 'mt-12 text-center'>
-                Sobre esta página vamos ver o que conseguimos fazer
+                O Rafa Doces surgiu do carinho e amor pela confeitaria, pois é muito gratificante proporcionar felicidade as pessoas por meios dos nossos doces.
             </p>
             <div className= 'text-center my-12'>
                 <Link href= '/pesquisa'>
